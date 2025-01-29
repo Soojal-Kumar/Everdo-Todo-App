@@ -1,6 +1,6 @@
 
-# 📌 **EverDo - To-Do App**  
-🚀 **EverDo** is a simple task management app built with **React Native & Expo**, featuring Firebase authentication, firestore syncing, and smart reminders.  
+# ? **EverDo - To-Do App**  
+ **EverDo** is a simple task management app built with **React Native & Expo**, featuring Firebase authentication, firestore syncing, and smart reminders.  
 
 ---
 ![image](https://github.com/user-attachments/assets/ec63d904-e9e1-424d-9ac1-e3ec03ed3cbc) ![image](https://github.com/user-attachments/assets/7f932f2c-2e84-4e08-8704-1b9e15c6a91f)
