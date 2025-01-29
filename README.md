@@ -8,6 +8,7 @@
 ## 🎯 **Features**
 ✅ **Task Management** – Create, update, delete, and categorize tasks.  
 ✅ **Prioritization** – Set task priorities (High, Medium, Low) and track progress.
+
 ✅ **Google Authentication** – Secure login with Firebase.  
 ✅ **Firestore Cloud Sync** – Store and access tasks across devices.  
 
